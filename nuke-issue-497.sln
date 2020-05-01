@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nuke-issue-497", "src\nuke-issue-497.csproj", "{8F1D7448-D6B9-496F-8C70-5023BF2257A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{89FC5D3F-01B8-4DFA-A9D1-2964523D3A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FC5D3F-01B8-4DFA-A9D1-2964523D3A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FC5D3F-01B8-4DFA-A9D1-2964523D3A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1D7448-D6B9-496F-8C70-5023BF2257A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1D7448-D6B9-496F-8C70-5023BF2257A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1D7448-D6B9-496F-8C70-5023BF2257A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1D7448-D6B9-496F-8C70-5023BF2257A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77128D3-E425-4B7A-97CA-F5DB542AAA96}
+	EndGlobalSection
+EndGlobal
